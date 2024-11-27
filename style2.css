@@ -1,0 +1,39 @@
+.tt1{
+    font-family: "Bungee Spice", sans-serif;
+    background-color: yellowgreen;
+    padding-left: 20px;
+    text-align: center;
+    
+}
+.tt2{
+    font-family: "Cabin Sketch", serif;
+    background-color: palevioletred;
+    text-align: center;
+    
+}
+.tt3{
+    font-family: "Edu AU VIC WA NT Arrows", cursive;
+    background-color: brown;
+    text-align: center;
+    background-color: slateblue;
+    
+}
+.wrap{
+    background-color: seagreen;
+    /* padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px; */
+    padding: 30px;
+    
+}
+.wrap button{
+    background-color: slateblue;
+    padding: 20px 50px;
+}
+.ww{
+    background-color: peru;
+}
+.wrap b{
+    color: brown;
+}
