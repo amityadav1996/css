@@ -2,14 +2,14 @@
     margin: 0px;
     padding: 0px;
 }
-.Tip{
-    background-color: springgreen;
+.Captain{
+    background-color: rgb(255, 128, 0);
     display: flex;
     justify-content: space-around;
     padding: 30px;
     align-items: center;
 }
-.Tip ul{
+.Captain ul{
     list-style: none;
     display: flex;
     gap: 30px;

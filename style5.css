@@ -1,0 +1,23 @@
+.contain{
+    display: flex;
+    justify-content: space-around;
+    background-color: darkgoldenrod;
+    /* height: 100vh; */
+    flex-wrap: wrap-reverse;
+    
+}
+.c{
+    height: 200px;
+    width: 200px;
+    /* background-color: blueviolet; */
+    border: 5px solid;
+}
+.c1{
+    background-color: blue;
+}
+.c2{
+    background-color: crimson;
+}
+.c3{
+    background-color: darkgreen;
+}
