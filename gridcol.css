@@ -1,0 +1,44 @@
+.c1,.c2,.c3,.c4,.c5,.c6{
+    background-color: violet;
+    border: 5px solid black;
+}
+.wrap{
+    
+    display: grid;
+    grid-template-columns: repeat(3 auto)  ;
+    grid-template-rows: auto auto auto auto;
+    height: 100vh;
+    gap: 30px;
+
+}
+.c1{
+    grid-column-start: 1;
+    grid-column-end: 4;
+    background-color: yellow;
+}
+.c2{
+    grid-column-start: 1;
+    grid-column-end: 3;
+    background-color: gray;
+}
+.c4{
+    grid-row-start: 2;
+    grid-row-end: 3;
+    background-color: aqua;
+}
+.c5{
+    grid-row-start: 2;
+    grid-row-end: 4;
+    background-color: purple;
+    border-radius: 30px;
+}
+.c6{
+    grid-column-start: 1;
+    grid-column-end: 4;
+    background-color: silver;
+}
+.c3{
+    grid-row-start: 2;
+    grid-row-end: 3;
+    background-color: rgb(50, 197, 50);
+}

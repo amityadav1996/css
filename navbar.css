@@ -5,9 +5,9 @@
 .Captain{
     background-color: rgb(255, 128, 0);
     display: flex;
-    justify-content: space-around;
+    justify-content: space-;
     padding: 30px;
-    align-items: center;
+    /* align-items: center; */
 }
 .Captain ul{
     list-style: none;

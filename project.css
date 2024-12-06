@@ -1,0 +1,109 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.mark {
+    background-color: rgb(139, 0, 0);
+    color: antiquewhite;
+}
+
+.desi {
+    /* text-align: center; */
+    background-color: rgba(0, 0, 0, 0.671);
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+    padding: 1px;
+
+}
+
+.sea:hover {
+
+    font-size: 32px;
+    color: rgb(233, 222, 222);
+    font-family: "Playwrite HR Lijeva", cursive;
+    padding-right: 100px;
+
+
+
+
+
+}
+
+.left {
+    margin: 20px;
+    font-size: 22px;
+    padding-right: 800px;
+    gap: 100px;
+
+
+}
+
+.search {
+    padding-top: 20px;
+    height: 40px;
+    gap: 50px;
+
+
+
+
+
+
+
+}
+
+.sea2 {
+    background-color: rgb(76, 76, 254);
+
+}
+
+.desi ul {
+
+    display: flex;
+    color: rgba(255, 255, 255, 0.975);
+    list-style: none;
+    gap: 20px;
+    margin: 20px;
+    font-size: 20px;
+    margin-left: 80px;
+
+
+
+}
+
+.desi h2 {
+    padding-top: 30px;
+}
+
+.desi a {
+    color: rgb(226, 43, 98);
+}
+
+.sign {
+
+    text-align: center;
+}
+
+/* .mark{
+    background-color: maroon;
+    color: aqua;
+}
+.desi{
+    display: flex;
+    /* justify-content: space-around; */
+/* padding: 20px;
+    background-color: whitesmoke;
+}
+.pp{
+    color: maroon;
+    font-family: "Playwrite HR Lijeva", cursive;
+    /* font-size: 60px; */
+
+/* padding-right: 200px;
+
+}
+.desi sea{
+    width: 80px;
+} */
+*/ */

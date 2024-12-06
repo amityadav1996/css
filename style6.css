@@ -1,0 +1,25 @@
+header{
+    background-color: aqua;
+    background-image: url(Caribbean-Sea.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.navbar ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+
+}
+.hero{
+    align-items: center;
+}
+.icfb{
+    background-color: yellowgreen;
+    color: rgb(50, 55, 205);
+    padding: 20px;
+}
