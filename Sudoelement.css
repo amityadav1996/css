@@ -1,0 +1,23 @@
+.g1::first-letter{
+    color: blue;
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.g1::selection{
+    background-color: blueviolet;
+}
+p::first-line{
+    color: brown;
+    text-decoration: underline;
+}
+.g2::before{
+    content: "Sh ";
+    color: blueviolet;
+}
+.g2::after{
+    content: " Yadav";
+    color: yellow;
+}
+input::placeholder{
+    color: slateblue;
+}
