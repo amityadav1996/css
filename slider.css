@@ -1,0 +1,25 @@
+.slider{
+    height: 700px;
+    background-image: url(download.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation-name: turbo;
+    animation-duration: 5s;
+    animation-direction:initial;
+    animation-iteration-count: infinite;
+}
+@keyframes turbo{
+    0%{
+        background-image: url(Caribbean-Sea.jpg);
+
+    }
+    50%{
+        background-image: url(Webp.webp);
+
+    }
+    100%{
+        background-image: url(pr3.webp);
+
+    }
+    
+}

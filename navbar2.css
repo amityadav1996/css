@@ -1,0 +1,38 @@
+.navbar{
+    background-color: yellow;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 16px;
+    
+}
+.navbar ul{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+}
+#check{
+    display: none;
+}
+#check:checked~.navbar ul{
+    display: block;
+}
+.navbar label{
+    display: none;
+}
+@media screen and (max-width: 700px){
+    .navbar label{
+        display: block;
+    }
+    .navbar ul{
+        display: none;
+        position: absolute;
+        top: 87px;
+        width: 100%;
+        background-color: aqua;
+    }
+    .navbar ul li{
+        padding: 12px;
+    }
+    
+}
